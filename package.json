@@ -1,0 +1,33 @@
+{
+  "name": "conways_node_pietes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conways.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.3.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterjacobson/conways_node_pietes.git"
+  },
+  "keywords": [
+    "conways",
+    "node"
+  ],
+  "author": "peter jacobson, piet geursen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterjacobson/conways_node_pietes/issues"
+  },
+  "homepage": "https://github.com/peterjacobson/conways_node_pietes"
+}
